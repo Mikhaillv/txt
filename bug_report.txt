@@ -1,1 +1,11 @@
+ID: 1
+Data: 14.10.2021
+Author: Mikhail_L
+Severity: Major
+Priority: Medium
+Summary: title
+Environment: win_10, google chrome, github
+Actual result: 
+Expect result:
+Attachments:
 
