@@ -1,0 +1,7 @@
+http - "Charles, Jmeter and Fiddler"
+json - "JavaScript",
+api - "Postman",
+dev tools - "Google Chrome and FireFox",
+guidelines - "iOS and Android",
+sql - "Bdeaver",
+git - "Github and Gitbash"

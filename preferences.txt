@@ -1,0 +1,5 @@
+movie - "Shawshank Redemption"
+series - "Sherlock"
+food - apple
+season - summer
+country - Italy
